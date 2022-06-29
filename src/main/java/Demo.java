@@ -8,5 +8,6 @@ public class Demo {
         System.out.println("我是hot-fix");
         System.out.println("hot-fix 第二次提交");
         System.out.println("master 演示合并分支");
+        System.out.println("push test");
     }
 }
