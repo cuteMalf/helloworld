@@ -9,5 +9,6 @@ public class Demo {
         System.out.println("hot-fix 第二次提交");
         System.out.println("master 演示合并分支");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
