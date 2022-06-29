@@ -4,5 +4,6 @@ public class Demo {
         System.out.println("Hello Java");
         System.out.println("Hello Git");
         System.out.println("Hello Maven");
+        System.out.println("好好学习 天天向上");
     }
 }
